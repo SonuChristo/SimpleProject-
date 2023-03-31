@@ -1,0 +1,133 @@
+#title{
+    background-color: #ff4c68;
+   
+}
+.nav-item{
+    padding: 0 15px;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(20deg);
+    margin-right: 20%;
+    position: relative;
+    left: 20%;
+    
+}
+@media (max-width:410px){
+    .first{
+        text-align: center;
+    }
+    .title-img{
+        transform: rotate(0deg);
+    }
+}
+#features{
+    padding-top: 200px;
+    text-align: center;
+    padding: 5% 10%;
+    
+   
+    
+}
+.rot{
+    margin-top: 15%;
+}
+.div1{
+    padding: 10px 20px  10px;
+}
+.icon{
+    padding-bottom: 40px;
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+     
+    text-align: center;
+    background-color: #ff4c68;
+}
+.carousel-item{
+    padding: 5% 10%;
+}
+.testimonials-img{
+    border-radius: 100%;
+    margin: 10px;
+    text-align: center;
+    
+}
+#press{
+    
+    background-color: #ff4c68;
+    text-align: center;
+}
+.carouselExample2{
+    padding: 0% 10%;
+}
+.img1{
+    border-radius: 25%;
+    text-align: center;
+}
+.img2{
+    border-radius: 25%;
+    text-align: center;
+}
+.img3{
+    border-radius: 25%;
+    text-align: center;
+}
+.img4{
+    border-radius: 25%;
+    text-align: center;
+}
+.testimonial-image{
+    border-radius: 100%;
+    text-align: center;
+}
+.card1{
+    text-align: center;
+    padding: 1% 10%;
+}
+#pricing{
+    background-color: #ff4c68;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#cta{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ff4c68;
+    color: white;
+}
+#footer{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+
+}
+.linked{
+    color: black;
+}
+.linked:hover{
+    color: darkcyan;
+}
+.instagram{
+    color: black;
+}
+.instagram:hover{
+    color: #ef8172;
+}
+.facebook{
+    color: black;
+}
+.facebook:hover{
+    color: aqua;
+}
+
+
